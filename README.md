@@ -5,7 +5,7 @@ Application for SCA cloud school
 ### This is a readme file for describing my processes used for:
 * Creating and cloning my repository `SCA-Cloud-Application-School` from github using:
 `git clone https://github.com/cornelia247/SCA-Cloud-School-Application.git`
-* Creating my `HTML` file and `Dockerfile` using commands like `FROM`, `run` and `COPY` for my webpage that displays ___"Welcome to SCA Cloud School Application"___ 
+* Creating my `HTML` file and `Dockerfile` using commands like `FROM`, `RUN` and `COPY` for my webpage that displays ___"Welcome to SCA Cloud School Application"___ 
 * Built the Image container using `docker build -t cornelia247/sca-cloud-school:v1 .`
 * Ran the Image at `localhost:3000` using `docker run -p 3000:80 cornelia247\sca-cloud-school:v1`
 
