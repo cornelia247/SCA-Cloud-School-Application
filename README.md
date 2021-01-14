@@ -14,7 +14,7 @@ Application for SCA cloud school
 * Pushed into Docker hub using `docker push cornelia247/sca-cloud-school-application-docker:commitsca`
 
 ## DOCKERHUB LINK
-* [Docker hub Repository](https://hub.docker.com/layers/133306801/cornelia247/sca-cloud-school-application-docker/commitsca/images/sha256-35020fe3dfa4a61edb3006fb3a01cefcc591560e987a175edea6b67717f0d1b2?context=explore)
+* [Docker hub Repository](https://hub.docker.com/repository/docker/cornelia247/sca-cloud-school-application-docker)
 
 
 
